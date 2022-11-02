@@ -13,5 +13,4 @@ SqlServer, MySql, Firebase. Technologies like ReactJs, ReactNative, Maven, .Net 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/{{DanielVisicatto}}/{{DanielVisicatto}}/blob/output/github-contribution-grid-snake.svg)
