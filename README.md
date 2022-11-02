@@ -1,7 +1,6 @@
+![Snake animation](https://github.com/DanielVisicatto/DanielVisicatto/blob/output/github-contribution-grid-snake.svg)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> Presentation </h1>
-
-![Snake animation](https://github.com/DanielVisicatto/DanielVisicatto/blob/output/github-contribution-grid-snake.svg)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi, I'm Daniel :D 
 
@@ -13,7 +12,3 @@
 
 I'm a {backend, frontend and mobile} student. I'm learning about C#, Java, JavaScript, C, Python technologies, and some DB's like MongoDB,
 SqlServer, MySql, Firebase. Technologies like ReactJs, ReactNative, Maven, .Net and finally some framworks like MicrosoftEntityFrawork, and Spring. Any help is welcome.
-
-
-
-
