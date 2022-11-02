@@ -13,3 +13,4 @@ I'm a {backend, frontend and mobile} student. I'm learning about C#, Java, JavaS
 SqlServer, MySql, Firebase. Technologies like ReactJs, ReactNative, Maven, .Net and finally some framworks like MicrosoftEntityFrawork, and Spring. Any help is welcome.
 
 ![Snake animation](https://github.com/DanielVisicatto/DanielVisicatto/blob/output/github-contribution-grid-snake.svg)
+
