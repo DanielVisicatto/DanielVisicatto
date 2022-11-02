@@ -1,5 +1,5 @@
 
-# Presentation
+<h1 align="center"> Presentation </h1>
 
 # Hi, I'm Daniel :D
 
@@ -12,3 +12,6 @@ I'm a {backend, frontend and mobile} student. I'm learning about C#, Java, JavaS
 SqlServer, MySql, Firebase. Technologies like ReactJs, ReactNative, Maven, .Net and finally some framworks like MicrosoftEntityFrawork, and Spring. Any help is welcome.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
