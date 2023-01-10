@@ -1,47 +1,20 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
-
 on:
-  schedule:
-      # every 6 hours
+  schedule:    
     - cron: "0 */6 * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+jobs:  
+  build:   
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Generates the snake  
-    
+    steps:    
+      - uses: actions/checkout@v2    
       - uses: Platane/snk@v2
-        with:
-           # DanielVisicatto
-           # using action context var `github.repository_owner` or specified user
-           github_user_name: ${{ github.repository_owner }}
-
-           # list of files to generate.
-           # one file per line. Each output can be customized with options as query string.
-           #
-           #  supported options:
-           #  - palette:     A preset of color, one of [github, github-dark, github-light]
-           #  - color_snake: Color of the snake
-           #  - color_dots:  Coma separated list of dots color.
-           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-           #                 Exactly 5 colors are expected.
+        with:           
+           github_user_name: ${DanielVisicatto}
+           
            outputs: |
              dist/github-snake.svg
              dist/github-snake-dark.svg?palette=github-dark
