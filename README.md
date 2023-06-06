@@ -30,7 +30,6 @@
 </div>
 
 ### About me
-I'm a {backend, frontend and mobile} student. I'm learning about C#, Java, JavaScript, C, Python technologies, and some DB's like MongoDB,
-SqlServer, MySql, Firebase. Technologies like ReactJs, ReactNative, Maven, .Net and finally some framworks like MicrosoftEntityFrawork, and Spring. Any help is welcome.
+I'm currently a student specializing in {backend, frontend, and mobile} development. I'm actively learning a wide range of technologies, including C#, Java, JavaScript, C, and Python. Additionally, I'm exploring various databases such as MongoDB, SqlServer, MySql, and Firebase. I'm also gaining hands-on experience with frameworks like ReactJs, ReactNative, Maven, and .Net. Finally, I'm familiarizing myself with frameworks such as Microsoft Entity Framework and Spring. I'm open to any assistance or guidance in my learning journey.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact&theme=dark&align=right)](https://github.com/anuraghazra/github-readme-stats)
