@@ -30,6 +30,28 @@
 </div>
 
 ### About me
-I'm currently a intern C# | .NET developer. I'm actively learning C#. Exploring some databases such as MongoDB, SqlServer. I'm open to any assistance or guidance in my learning journey.
+I am a highly skilled .NET Developer currently working for a top-tier consulting firm. I specialize in delivering robust system solutions for major market players, including prominent clients such as Azul Linhas Aéreas Brasileiras and Rede Américas.
+
+My core expertise spans the entire software development lifecycle, with deep proficiency in:
+
+Architecture: 
+-    Project architecture.
+-    Software architecture.
+-    Clean Architecture.
+-    Clean Code principles.
+
+Development Practices: 
+-   Extensive experience with Unit Testing and utilizing principles like DDD (Domain-Driven Design), SOLID, KISS, and DRY.
+
+Technologies: 
+-   Proficiency in SQL and NoSQL databases, Docker, and Kubernetes.
+
+Integrations:
+-   Hands-on experience with critical systemic integrations across platforms like Gupy, Unico, Apdata, UniAzul, Mint, and various other services.
+  
+
+I am adept at modern development methodologies, utilizing Azure DevOps, GitFlow, OneFlow, and SCRUM. I actively stay ahead of the curve by implementing Minimal APIs and quickly adopting emerging tools.
+
+A key recent achievement includes successfully leading the migration of multiple legacy projects to .NET 8.0, which involved not only updating the framework but also modernizing the architectural approach. Currently, I am driving new integrations on .NET 9.0, ensuring a forward-looking architecture that is ready for the planned migration to .NET 10.0.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact&theme=dark&align=right)](https://github.com/anuraghazra/github-readme-stats)
