@@ -54,4 +54,4 @@ I am adept at modern development methodologies, utilizing Azure DevOps, GitFlow,
 
 A key recent achievement includes successfully leading the migration of multiple legacy projects to .NET 8.0, which involved not only updating the framework but also modernizing the architectural approach. Currently, I am driving new integrations on .NET 9.0, ensuring a forward-looking architecture that is ready for the planned migration to .NET 10.0.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVisicatto&layout=compact&theme=dark&align=right)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
