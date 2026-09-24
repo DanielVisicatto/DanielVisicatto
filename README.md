@@ -1,57 +1,61 @@
+<h1 align="center">Hi, I'm Daniel</h1>
 
+<p align="center">
+  Software Developer focused on .NET, backend development, cloud, integrations and software architecture.
+</p>
 
+<p align="center">
+  <a href="https://github.com/DanielVisicatto">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-visicatto-b7b1bb171/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<h1 align="center"> Presentation </h1>
+## About me
 
-# Hi, I'm Daniel :D 
+I am a Software Developer working mainly with .NET and backend applications.
 
+My experience includes developing and maintaining APIs, system integrations, internal frameworks, cloud-based applications and platform solutions for enterprise environments.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DanielVisicatto)](https://github.com/DanielVisicatto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-visicatto-b7b1bb171/)](https://www.linkedin.com/in/daniel-visicatto-b7b1bb171/)
+I currently work with technologies and practices such as:
 
+- C# and .NET
+- ASP.NET Core and Web APIs
+- Clean Architecture and Clean Code
+- DDD, SOLID, KISS and DRY
+- Unit and integration testing
+- SQL and NoSQL databases
+- Docker and Kubernetes
+- Azure DevOps and CI/CD
+- Git and Git-based workflows
+- System integrations and distributed applications
+- OpenTelemetry and application monitoring
 
-### :hammer_and_wrench: Languages and Tools :
+I have also worked with Node.js, TypeScript and React, especially in platform and Backstage-related projects.
+
+More recently, I have been working with modernization initiatives, including .NET migrations, dependency and vulnerability updates, internal libraries, platform engineering and Infrastructure as Code.
+
+I am especially interested in software architecture, cloud technologies, automation and AI applied to software development.
+
+## Languages and Tools
+
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" title="CSharp" alt="Csharp" width="40" height="40"/>&nbsp;  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 </div>
 
-### About me
-I am a highly skilled .NET Developer currently working for a top-tier consulting firm. I specialize in delivering robust system solutions for major market players, including prominent clients such as Azul Linhas Aéreas Brasileiras and Rede Américas.
+## GitHub Stats
 
-My core expertise spans the entire software development lifecycle, with deep proficiency in:
-
-Architecture: 
--    Project architecture.
--    Software architecture.
--    Clean Architecture.
--    Clean Code principles.
-
-Development Practices: 
--   Extensive experience with Unit Testing and utilizing principles like DDD (Domain-Driven Design), SOLID, KISS, and DRY.
-
-Technologies: 
--   Proficiency in SQL and NoSQL databases, Docker, and Kubernetes.
-
-Integrations:
--   Hands-on experience with critical systemic integrations across platforms like Gupy, Unico, Apdata, UniAzul, Mint, and various other services.
-  
-
-I am adept at modern development methodologies, utilizing Azure DevOps, GitFlow, OneFlow, and SCRUM. I actively stay ahead of the curve by implementing Minimal APIs and quickly adopting emerging tools.
-
-A key recent achievement includes successfully leading the migration of multiple legacy projects to .NET 8.0, which involved not only updating the framework but also modernizing the architectural approach. Currently, I am driving new integrations on .NET 9.0, ensuring a forward-looking architecture that is ready for the planned migration to .NET 10.0.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvisicatto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvisicatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
